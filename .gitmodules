@@ -4,3 +4,6 @@
 [submodule ".vim_runtime/sources_non_forked/auto-pairs"]
 	path = .vim_runtime/sources_non_forked/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs
+[submodule ".vim_runtime/sources_non_forked/vim_unimpaired"]
+	path = .vim_runtime/sources_non_forked/vim_unimpaired
+	url = https://github.com/tpope/vim-unimpaired
