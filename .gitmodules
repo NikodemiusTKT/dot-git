@@ -37,3 +37,9 @@
 [submodule "/home/tkt/.vim_runtime/sources_non_forked/vim-unimpaired"]
 	path = /home/tkt/.vim_runtime/sources_non_forked/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/vim-instant-markdown"]
+	path = /home/tkt/.vim_runtime/sources_non_forked/vim-instant-markdown
+	url = https://github.com/suan/vim-instant-markdown
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/vim-geeknote"]
+	path = /home/tkt/.vim_runtime/sources_non_forked/vim-geeknote
+	url = https://github.com/neilagabriel/vim-geeknote
