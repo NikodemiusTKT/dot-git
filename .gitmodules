@@ -13,3 +13,15 @@
 [submodule "/home/tkt/.vim_runtime/sources_non_forked/easyclip"]
 	path = /home/tkt/.vim_runtime/sources_non_forked/easyclip
 	url = https://github.com/svermeulen/vim-easyclip.git
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/closetag"]
+	path = /home/tkt/.vim_runtime/sources_non_forked/closetag
+	url = https://github.com/alvan/vim-closetag
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/vim_husk"]
+	path = /home/tkt/.vim_runtime/sources_non_forked/vim_husk
+	url = https://github.com/vim-utils/vim-husk
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/vim-tmux"]
+	path = /home/tkt/.vim_runtime/sources_non_forked/vim-tmux
+	url = https://github.com/tmux-plugins/vim-tmux
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/xmedit"]
+	path = /home/tkt/.vim_runtime/sources_non_forked/xmedit
+	url = https://github.com/sukima/xmledit
