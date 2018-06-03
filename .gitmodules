@@ -10,3 +10,6 @@
 [submodule ".vim_runtime/sources_non_forked/vim-easymotion"]
 	path = .vim_runtime/sources_non_forked/vim-easymotion
 	url = https://github.com/easymotion/vim-easymotion
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/easyclip"]
+	path = /home/tkt/.vim_runtime/sources_non_forked/easyclip
+	url = https://github.com/svermeulen/vim-easyclip.git
