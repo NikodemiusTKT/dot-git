@@ -131,3 +131,48 @@
 [remote "origin"]
 	url = https://github.com/NikodemiusTKT/dot-git.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/YouCompleteMe"]
+	url = https://github.com/Valloric/YouCompleteMe
+	active = true
+[submodule ".vim_runtime/sources_non_forked/auto-pairs"]
+	url = https://github.com/jiangmiao/auto-pairs
+	active = true
+[submodule ".vim_runtime/sources_non_forked/vim_unimpaired"]
+	url = https://github.com/tpope/vim-unimpaired
+	active = true
+[submodule ".vim_runtime/sources_non_forked/vim-easymotion"]
+	url = https://github.com/easymotion/vim-easymotion
+	active = true
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/easyclip"]
+	url = https://github.com/svermeulen/vim-easyclip.git
+	active = true
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/closetag"]
+	url = https://github.com/alvan/vim-closetag
+	active = true
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/vim_husk"]
+	url = https://github.com/vim-utils/vim-husk
+	active = true
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/vim-tmux"]
+	url = https://github.com/tmux-plugins/vim-tmux
+	active = true
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/xmedit"]
+	url = https://github.com/sukima/xmledit
+	active = true
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/supertab"]
+	url = https://github.com/ervandew/supertab
+	active = true
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/tern_for_vim"]
+	url = https://github.com/ternjs/tern_for_vim
+	active = true
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/ultisnips"]
+	url = https://github.com/SirVer/ultisnips
+	active = true
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/vim-unimpaired"]
+	url = https://github.com/tpope/vim-unimpaired
+	active = true
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/vim-instant-markdown"]
+	url = https://github.com/suan/vim-instant-markdown
+	active = true
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/vim-geeknote"]
+	url = https://github.com/neilagabriel/vim-geeknote
+	active = true
