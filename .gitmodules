@@ -7,3 +7,6 @@
 [submodule ".vim_runtime/sources_non_forked/vim_unimpaired"]
 	path = .vim_runtime/sources_non_forked/vim_unimpaired
 	url = https://github.com/tpope/vim-unimpaired
+[submodule ".vim_runtime/sources_non_forked/vim-easymotion"]
+	path = .vim_runtime/sources_non_forked/vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion
