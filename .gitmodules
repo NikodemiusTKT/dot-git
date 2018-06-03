@@ -25,3 +25,15 @@
 [submodule "/home/tkt/.vim_runtime/sources_non_forked/xmedit"]
 	path = /home/tkt/.vim_runtime/sources_non_forked/xmedit
 	url = https://github.com/sukima/xmledit
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/supertab"]
+	path = /home/tkt/.vim_runtime/sources_non_forked/supertab
+	url = https://github.com/ervandew/supertab
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/tern_for_vim"]
+	path = /home/tkt/.vim_runtime/sources_non_forked/tern_for_vim
+	url = https://github.com/ternjs/tern_for_vim
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/ultisnips"]
+	path = /home/tkt/.vim_runtime/sources_non_forked/ultisnips
+	url = https://github.com/SirVer/ultisnips
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/vim-unimpaired"]
+	path = /home/tkt/.vim_runtime/sources_non_forked/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired
