@@ -1,0 +1,3 @@
+[submodule "/home/tkt/.vim_runtime/sources_non_forked/YouCompleteMe"]
+	path = /home/tkt/.vim_runtime/sources_non_forked/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe
