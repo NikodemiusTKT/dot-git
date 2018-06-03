@@ -1,3 +1,6 @@
 [submodule "/home/tkt/.vim_runtime/sources_non_forked/YouCompleteMe"]
 	path = /home/tkt/.vim_runtime/sources_non_forked/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe
+[submodule ".vim_runtime/sources_non_forked/auto-pairs"]
+	path = .vim_runtime/sources_non_forked/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
